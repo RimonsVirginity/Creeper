@@ -1,0 +1,4 @@
+name: Creeper
+version: '${project.version}'
+main: me.rimon.creeper.Creeper
+api-version: '1.19'
